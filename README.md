@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azam Ali Shaikh</h1>
 <h3 align="center">I am a passionate full-stack developer from India currently in third year of study</h3>
 
+<img align='right' alt='coding' width='400' src='https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u' />
+
 - 🔭 I’m currently working on [MemoRy - A notepad application](https://github.com/azamshaikh1103/Memory-JS)
 
 - 📫 How to reach me **azamshaikh1103@gmail.com**
