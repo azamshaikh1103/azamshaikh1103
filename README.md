@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azam Ali Shaikh</h1>
+<h1 align="center">Hi 👋, I'm Azam Shaikh</h1>
 <h3 align="center">Full-stack developer who loves making, experimenting, and continuously learning about the web.</h3>
 
 <br>
